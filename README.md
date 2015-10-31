@@ -16,5 +16,6 @@ by MATLAB scripting for COMSOL Multiphysics®.
 
 ![](https://raw.githubusercontent.com/xiumingzhang/photonic-bandgap-comsol-matlab/master/results/comparison.png)
 
-Left: results from the textbook
+Left: results from the textbook.
+
 Right: results by this script
