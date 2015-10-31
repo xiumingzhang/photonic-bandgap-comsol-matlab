@@ -18,4 +18,4 @@ by MATLAB scripting for COMSOL Multiphysics®.
 
 Left: results from the textbook.
 
-Right: results by this script
+Right: results by this script.
