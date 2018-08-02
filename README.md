@@ -1,5 +1,5 @@
 # photonic-bandgap-comsol-matlab
-Computing the bandgap of a 2D photonic crystal by COMSOL MATLAB scripting
+Computing the Bandgap of a 2D Photonic Crystal by COMSOL-MATLAB Scripting
 
 This project replicates Figure 6.8 of the textbook
 
