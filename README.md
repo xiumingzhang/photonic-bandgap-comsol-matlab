@@ -4,7 +4,7 @@ Computing the Bandgap of a 2D Photonic Crystal by COMSOL-MATLAB Scripting
 This project replicates Figure 6.8 of the textbook
 
 	@book{maldovan2009periodic,
-	  title={Periodic materials and interference lithography: for photonics, phononics and mechanics},
+	  title={Periodic Materials and Interference Lithography: for Photonics, Phononics and Mechanics},
 	  author={Maldovan, Martin and Thomas, Edwin L},
 	  year={2009},
 	  publisher={John Wiley \& Sons}
